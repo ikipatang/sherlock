@@ -3,12 +3,11 @@ Archive.org
 Codolio
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -19,11 +18,13 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
