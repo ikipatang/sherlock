@@ -12,16 +12,13 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
 Pornhub
 Rarible
 Realmeye
 Reddit
-ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 Slack
@@ -37,7 +34,6 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
