@@ -12,9 +12,10 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Motherless
 Patched
 PocketStars
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -36,3 +37,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
