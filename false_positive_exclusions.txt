@@ -10,8 +10,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-LushStories
 Patched
 Rarible
 Realmeye
@@ -25,7 +23,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
