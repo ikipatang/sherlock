@@ -1,9 +1,9 @@
 7Cups
 Airliners
 Apple Discussions
+Archive of Our Own
 Archive.org
 ArtStation
-Audiojungle
 Bandcamp
 Codolio
 Cults3D
@@ -35,7 +35,6 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
