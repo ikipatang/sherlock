@@ -1,6 +1,7 @@
 7Cups
 APClips
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
@@ -13,10 +14,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-LushStories
-Minecraft
-OurDJTalk
 Patched
 Pornhub
 Rarible
