@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
+Bandcamp
 BreachSta.rs Forum
 Codolio
 DeviantArt
@@ -17,7 +18,6 @@ Hubski
 LessWrong
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -37,6 +37,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 igromania
 interpals
 mercadolivre
