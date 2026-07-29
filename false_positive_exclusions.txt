@@ -5,17 +5,21 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+F3.cool
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
+Instapaper
 LessWrong
+LushStories
 Odysee
 PCGamer
 Patched
@@ -24,10 +28,14 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
+Strava
+Trakt
 Trovo
 TryHackMe
 Weblate
