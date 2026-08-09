@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -14,14 +15,15 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LushStories
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -36,7 +38,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -44,9 +45,11 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+dcinside
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
