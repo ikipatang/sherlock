@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,11 +19,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
-Minecraft
+LushStories
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -35,7 +34,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
