@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -10,7 +9,6 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -24,7 +22,6 @@ Instapaper
 LushStories
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -33,11 +30,13 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
