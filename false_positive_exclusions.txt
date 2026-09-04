@@ -4,18 +4,15 @@ Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
+BabyRu
 Bandcamp
 Championat
-Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
-GitHub
-Gumroad
 Hashnode
 Houzz
 Hubski
@@ -23,7 +20,6 @@ Instapaper
 LushStories
 Minecraft
 ObservableHQ
-Odysee
 PCGamer
 Rarible
 Realmeye
@@ -35,7 +31,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
+TikTok
+Trakt
 Trovo
 TryHackMe
 Velomania
