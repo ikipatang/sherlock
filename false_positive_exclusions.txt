@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -14,17 +13,15 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -34,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
