@@ -21,10 +21,8 @@ Houzz
 Hubski
 Instapaper
 LushStories
-Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -37,6 +35,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
