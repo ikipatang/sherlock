@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -20,11 +21,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
 LushStories
+Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -54,4 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
