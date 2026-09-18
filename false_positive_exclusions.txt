@@ -6,12 +6,12 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -22,11 +22,11 @@ Houzz
 Hubski
 Instapaper
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -37,7 +37,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -54,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
