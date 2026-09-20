@@ -3,6 +3,7 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
@@ -10,6 +11,7 @@ CGTrader
 Championat
 Chatujme.cz
 ChaturBate
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -21,6 +23,7 @@ Houzz
 Hubski
 Instapaper
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -52,3 +55,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
