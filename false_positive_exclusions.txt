@@ -9,6 +9,7 @@ Blogger
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 Cracked Forum
 DeviantArt
@@ -17,18 +18,18 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerNews
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -39,7 +40,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -53,6 +53,5 @@ igromania
 interpals
 mercadolivre
 opennet
-phpRU
 social.tchncs.de
 svidbook
