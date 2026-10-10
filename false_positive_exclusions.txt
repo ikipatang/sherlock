@@ -23,11 +23,9 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LushStories
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -47,7 +45,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
@@ -56,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
