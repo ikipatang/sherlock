@@ -6,7 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -23,9 +23,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LiveJournal
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
