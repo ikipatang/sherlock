@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -38,8 +37,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -54,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
