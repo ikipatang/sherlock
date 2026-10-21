@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blipfoto
 Blogger
 CGTrader
 Championat
@@ -22,6 +23,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -35,7 +37,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -43,6 +44,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 interpals
 mercadolivre
