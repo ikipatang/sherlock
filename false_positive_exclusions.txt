@@ -1,10 +1,10 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,13 +20,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -36,8 +34,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
