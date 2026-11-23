@@ -3,6 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -13,7 +14,6 @@ GeeksforGeeks
 HackerNews
 Hashnode
 Hubski
-Image Fap
 Instapaper
 Linktree
 LushStories
