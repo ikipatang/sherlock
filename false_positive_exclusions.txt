@@ -9,6 +9,7 @@ Codolio
 Cracked Forum
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -16,8 +17,6 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -46,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
